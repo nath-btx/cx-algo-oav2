@@ -4,7 +4,7 @@
 // Comparer i à i + 1
 // à chaque itération la plus grande valeur se retrouve à la fin
 
-function Bubblesort(arr)
+function BubbleSort(arr)
 {
     
     let len = arr.length;
